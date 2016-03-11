@@ -186,6 +186,7 @@ section ul li:before {
 }
 #logo{
     margin-top: -2px;
+    margin-left: -20px;
 }
 .navbar-toggle{
     margin-top: 20px;
